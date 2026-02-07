@@ -24,6 +24,9 @@ a{
 
 }
 
+logo{
+    width: 50px;
+}
 .hello{
     position: absolute;
     top: 20%;
