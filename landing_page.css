@@ -5,13 +5,14 @@
 
 body {
     padding: 0 20px;
+    background-color: #FEF8EC;
 }
 
 header{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    background-color: bisque;
+    background-color: #FEF8EC;
     align-items: center;
     padding: 0 20px;
 }
