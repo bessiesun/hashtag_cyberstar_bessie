@@ -25,16 +25,24 @@ a{
 
 }
 
-.logo{
+.logo_tester{
     width: 50px;
 }
 .hello{
+    font-family: "Newsreader", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
     position: absolute;
     top: 20%;
     left: 5%;
     font-size: 70px;
 }
 .bessie{
+    font-family: "Newsreader", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
     position: absolute;
     top: 70%;
     right: 5%;
